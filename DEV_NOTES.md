@@ -17,3 +17,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-15
 - Verified compatibility with latest runtime version
 - Updated license year
+
+## 2026-04-29
+- Fixed off-by-one error in loop
+- Updated license year
+- Pinned dependency versions for reproducibility
