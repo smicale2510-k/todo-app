@@ -27,3 +27,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic retry logic for network requests
 - Verified compatibility with latest runtime version
 - Added CONTRIBUTING.md stub
+
+## 2026-05-06
+- Reorganised test fixtures
