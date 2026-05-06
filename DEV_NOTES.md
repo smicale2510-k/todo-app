@@ -22,3 +22,8 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed off-by-one error in loop
 - Updated license year
 - Pinned dependency versions for reproducibility
+
+## 2026-05-06
+- Added basic retry logic for network requests
+- Verified compatibility with latest runtime version
+- Added CONTRIBUTING.md stub
